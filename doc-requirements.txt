@@ -13,4 +13,4 @@ ipywidgets
 numpydoc>=0.4
 pillow
 sphinx-gallery>=0.1.13
-setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
