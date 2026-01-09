@@ -14,3 +14,4 @@ numpydoc>=0.4
 pillow
 sphinx-gallery>=0.1.13
 setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
